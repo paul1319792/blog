@@ -1,0 +1,7 @@
+.idea
+composer.lock
+*.log
+thinkphp
+application/database.php
+.DS_Store
+CHANGELOG.md
